@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Motores gaficos\\Trabajo Practico 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|Z:\\Motores gaficos\\Trabajo Practico 3\\assets\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|solutionrelative:assets\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|Z:\\Motores gaficos\\Trabajo Practico 3\\assets\\skeletonai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|solutionrelative:assets\\skeletonai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|z:\\motores gaficos\\trabajo practico 3\\assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|Z:\\Motores gaficos\\Trabajo Practico 3\\assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|solutionrelative:assets\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|Z:\\Motores gaficos\\Trabajo Practico 3\\assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|Z:\\Motores gaficos\\Trabajo Practico 3\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|Z:\\Motores gaficos\\Trabajo Practico 3\\assets\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A420F66D-AEF7-6927-11D3-87848E1F71D1}|Assembly-CSharp.csproj|solutionrelative:assets\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HudController.cs",
+              "DocumentMoniker": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\HudController.cs",
+              "RelativeDocumentMoniker": "Assets\\HudController.cs",
+              "ToolTip": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\HudController.cs",
+              "RelativeToolTip": "Assets\\HudController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:46:28.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkeletonAI.cs",
+              "DocumentMoniker": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\SkeletonAI.cs",
+              "RelativeDocumentMoniker": "Assets\\SkeletonAI.cs",
+              "ToolTip": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\SkeletonAI.cs",
+              "RelativeToolTip": "Assets\\SkeletonAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:05:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:27:54.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GunController.cs",
+              "DocumentMoniker": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\GunController.cs",
+              "RelativeDocumentMoniker": "Assets\\GunController.cs",
+              "ToolTip": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\GunController.cs",
+              "RelativeToolTip": "Assets\\GunController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:32:46.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyHealth.cs",
+              "ToolTip": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:39:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerHealth.cs",
+              "ToolTip": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:07:23.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemySpawner.cs",
+              "ToolTip": "Z:\\Motores gaficos\\Trabajo Practico 3\\Assets\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T05:45:29.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
